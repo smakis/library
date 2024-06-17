@@ -1,6 +1,8 @@
-# library
+b# library
 - Save new book to file
 - Print books
 
 ## Run program
-python library.py <filename>
+- Give filename. If not found writes a new one, otherwise updates existing.
+
+python library.py filename
